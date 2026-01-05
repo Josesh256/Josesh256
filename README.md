@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is JoseSha256<br><br>I'm a passionate technology enthusiast and constant learner. My curiosity drives me to explore and dive deep into the latest advancements in tech, particularly around blockchain, cryptography, and software development.<br><br>I'm always excited to connect with others in the field, collaborate on innovative projects, and keep expanding my knowledge. Let's build the future of technology together! 🚀</h2>
+<h2 align="left">Hi 👋! My name is JoseSha256<br><br>I'm a passionate technology enthusiast and constant learner. My curiosity drives me to explore and dive deep into the latest advancements in tech, particularly around systems, blockchain, cryptography, and software development.<br><br>I'm always excited to connect with others in the field, collaborate on innovative projects, and keep expanding my knowledge. Let's build the future of technology together! 🚀</h2>
 
 ###
 
